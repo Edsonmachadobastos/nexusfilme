@@ -1,0 +1,60 @@
+{
+    "usuario": "admin",
+    "senha": "admin",
+    "logo": "img/WEBPLAY_logo_original_500KB.png",
+    "background": "img/ChatGPT Image 14 de set. de 2026, 23_55_33.png",
+    "nome_painel": "PLAY SIM TV",
+    "whatsapp_numero": "27992910083",
+    "sports_api_url": "https://painelwb.com.br/api/link.php?token=948608107e47c6df72fffb72caa07842",
+    "planos": [
+        {
+            "id": "basico",
+            "nome": "Básico",
+            "preco": "R$150",
+            "periodo": "/mês",
+            "descricao": "Ideal para usuários individuais",
+            "features": [
+                "Streaming em HD",
+                "1 dispositivo",
+                "Filmes e Séries",
+                "TV ao vivo"
+            ],
+            "popular": false,
+            "mensagem_whatsapp": ""
+        },
+        {
+            "id": "premium",
+            "nome": "Premium",
+            "preco": "R$360",
+            "periodo": "/3 meses",
+            "descricao": "Perfeito para casais e famílias",
+            "features": [
+                "Streaming em HD e 4K",
+                "3 dispositivos simultâneos",
+                "Conteúdo exclusivo",
+                "Esportes ao vivo premium",
+                "Canais para adultos (opcional)"
+            ],
+            "popular": true,
+            "mensagem_whatsapp": ""
+        },
+        {
+            "id": "familiar",
+            "nome": "Familiar",
+            "preco": "R$600",
+            "periodo": "/6 meses",
+            "descricao": "A melhor opção a longo prazo",
+            "features": [
+                "Streaming em HD e 4K",
+                "3 dispositivos simultâneos",
+                "Conteúdo exclusivo",
+                "Todos os esportes ao vivo",
+                "Canais para adultos (opcional)",
+                "Suporte prioritário 24/7"
+            ],
+            "popular": false,
+            "mensagem_whatsapp": ""
+        }
+    ],
+    "tmdb_api_key": ""
+}
